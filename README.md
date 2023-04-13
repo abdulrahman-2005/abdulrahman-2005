@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VulcanWM&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-https://visitcount.itsvg.in/api?id=abdulrahman-2005&label=Profile%20Views&color=0&pretty=true
+[![](https://visitcount.itsvg.in/api?id=abdulrahman-2005&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 # Stats
 
