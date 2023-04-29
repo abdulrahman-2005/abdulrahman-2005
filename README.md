@@ -2,28 +2,28 @@
 
 I'm an 18-year-old Python developer from Egypt with experience in web development using HTML5, CSS, and JS. I'm also interested in learning Rust and AI/ML.
 
-## Skills
+## Skills 🚀
 
 - Python 🐍
 - Web development with HTML5, CSS, and JS 🌐
 
-## Learning
+## Learning 📖
 
 I'm currently focused on learning the following:
 
 - Rust 🦀
 - AI/ML 🤖
 
-## Projects
+## Projects 💻
 
 Here are some of my recent projects:
 
-- [Quranic Quiz](https://heartfelt-kangaroo-ee8ab5.netlify.app)
-- [Emoji Beat](https://glistening-daffodil-5cf9df.netlify.app/)
-- [World Encyclopaedia](https://festive-lamarr-a9315a.netlify.app)
-- [Textify](https://startling-belekoy-2f8198.netlify.app)
+- [Quranic Quiz](https://heartfelt-kangaroo-ee8ab5.netlify.app) 📚
+- [Emoji Beat](https://glistening-daffodil-5cf9df.netlify.app/) 🎵
+- [World Encyclopaedia](https://festive-lamarr-a9315a.netlify.app) 🌍
+- [Textify](https://startling-belekoy-2f8198.netlify.app) ✉️
 
-## Connect with me
+## Connect with me 🤝
 
 - [Website](https://codeman.gq/)
 - [GitHub](https://github.com/abdulrahman-2005)
