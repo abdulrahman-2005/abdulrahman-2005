@@ -37,3 +37,10 @@ Here are some of my recent projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-2005&show_icons=true&theme=radical" alt="Abdulrahman Azmy's GitHub stats">
 </p>
+
+<a href="https://github.com/abdulrahman-2005/abdulrahman-2005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-2005&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/abdulrahman-2005/abdulrahman-2005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-2005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdulrahman Azmy's GitHub Stats" />
+</a>
