@@ -35,7 +35,7 @@ Here are some of my recent projects:
 <p align="center">Feel free to reach out to me if you have any questions or just want to say hi! 😊</p>
 
 <p align="center"><a href="https://github.com/abdulrahman-2005/abdulrahman-2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-2005&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-2005&langs_count=4&theme=radical" />
     
 <a href="https://github.com/abdulrahman-2005/abdulrahman-2005">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-2005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdulrahman Azmy's GitHub Stats" />
