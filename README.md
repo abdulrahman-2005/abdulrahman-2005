@@ -36,6 +36,9 @@ Feel free to reach out to me if you have any questions or just want to say hi! �
 ![Abdulrahman Azmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-2005&show_icons=true&theme=radical)
 
 ---
+
+
+
 <p align="center">
   <a href="https://codeman.gq"><img src="https://www.codeman.gq/pro.jpg" alt="Abdulrahman Azmy" width="200" height="200" style="border-radius: 50%"></a>
   <br>
@@ -60,17 +63,17 @@ Feel free to reach out to me if you have any questions or just want to say hi! �
     <br>
     <h2>Projects 💻</h2>
     <ul>
-      <li><a href="https://heartfelt-kangaroo-ee8ab5.netlify.app">Quranic Quiz</a> 📚</li>
-      <li><a href="https://glistening-daffodil-5cf9df.netlify.app/">Emoji Beat</a> 🎵</li>
-      <li><a href="https://festive-lamarr-a9315a.netlify.app">World Encyclopaedia</a> 🌍</li>
-      <li><a href="https://startling-belekoy-2f8198.netlify.app">Textify</a> ✉️</li>
+      <li><a href="https://heartfelt-kangaroo-ee8ab5.netlify.app"><img src="https://img.shields.io/badge/Quranic%20Quiz-%20-blue" /></a> 📚</li>
+      <li><a href="https://glistening-daffodil-5cf9df.netlify.app/"><img src="https://img.shields.io/badge/Emoji%20Beat-%20-green" /></a> 🎵</li>
+      <li><a href="https://festive-lamarr-a9315a.netlify.app"><img src="https://img.shields.io/badge/World%20Encyclopaedia-%20-red" /></a> 🌍</li>
+      <li><a href="https://startling-belekoy-2f8198.netlify.app"><img src="https://img.shields.io/badge/Textify-%20-yellow" /></a> ✉️</li>
     </ul>
     <br>
     <h2>Connect with me 🤝</h2>
     <p align="center">
-      <a href="https://codeman.gq"><img src="https://img.shields.io/badge/-codeman.gq-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codeman.gq" /></a>
-      <a href="https://github.com/abdulrahman-2005"><img src="https://img.shields.io/badge/-abdulrahman--2005-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/abdulrahman-2005" /></a>
-      <a href="https://twitter.com/Abdulra42082285"><img src="https://img.shields.io/badge/-@Abdulra42082285-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Abdulra42082285" /></a>
+      <a href="https://codeman.gq"><img src="https://img.shields.io/badge/Website-%20-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codeman.gq" /></a>
+      <a href="https://github.com/abdulrahman-2005"><img src="https://img.shields.io/badge/GitHub-%20-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/abdulrahman-2005" /></a>
+      <a href="https://twitter.com/Abdulra42082285"><img src="https://img.shields.io/badge/Twitter-%20-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Abdulra42082285" /></a>
     </p>
   </samp>
 </p>
