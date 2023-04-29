@@ -18,14 +18,15 @@ I'm currently focused on learning the following:
 
 Here are some of my recent projects:
 
-- [Quranic Quiz](https://quraniquiz.gq)
-- [Emoji Beat](https://codeman.gq/emojibeat)
-- [World Encyclopaedia](https://worldencyclopidea.tk)
+- [Quranic Quiz](https://heartfelt-kangaroo-ee8ab5.netlify.app)
+- [Emoji Beat](https://glistening-daffodil-5cf9df.netlify.app/)
+- [World Encyclopaedia](https://festive-lamarr-a9315a.netlify.app)
+- [Textify](https://startling-belekoy-2f8198.netlify.app)
 
 ## Connect with me
 
 - [Website](https://codeman.gq/)
 - [GitHub](https://github.com/abdulrahman-2005)
-- [Twitter](https://twitter.com/your_twitter_handle)
+- [Twitter](https://twitter.com/Abdulra42082285)
 
 Feel free to reach out to me if you have any questions or just want to say hi! 😊
