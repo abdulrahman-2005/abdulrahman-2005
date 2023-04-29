@@ -1,19 +1,26 @@
 # Hello, I'm Abdulrahman Azmy! 👋
 
-I'm an 18-year-old Python developer from Egypt with experience in web development using HTML5, CSS, and JS. You can check out my website [codeman.gq](https://codeman.gq/) to learn more about me and my projects.
+I'm an 18-year-old Python developer from Egypt with experience in web development using HTML5, CSS, and JS. I'm also interested in learning Rust and AI/ML.
 
 ## Skills
 
 - Python 🐍
 - Web development with HTML5, CSS, and JS 🌐
 
+## Learning
+
+I'm currently focused on learning the following:
+
+- Rust 🦀
+- AI/ML 🤖
+
 ## Projects
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/abdulrahman-2005/project-1)
-- [Project 2](https://github.com/abdulrahman-2005/project-2)
-- [Project 3](https://github.com/abdulrahman-2005/project-3)
+- [Quranic Quiz](https://quraniquiz.gq)
+- [Emoji Beat](https://codeman.gq/emojibeat)
+- [World Encyclopaedia](https://worldencyclopidea.tk)
 
 ## Connect with me
 
