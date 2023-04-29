@@ -1,21 +1,3 @@
-# 💫About Me :
-<h1 align="center">Hey, I'm Abdulrahman Azmy</h1>
-<h3 align="center">17 year old Simulation, Ai, web developer from EGYPT 🚩🚩</h3>
-- 🔭 I’m currently working on some fancy world sim, but it sucks every time
-
-- 👨‍💻 All of my projects are available at [my Website](https://codeman.gq)
-
-- 💬 Ask me about **python, AI**
-
-- 📫 How to reach me **abuazmy.gg@gmail.com, +201201590033 on whatsapp**
-
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
+#Hi there
+my name is (**Abdulrahman Azmy**)["https://www.codeman.gq"] and i'm a web/python/ bla bla developer from Egypt. i'm actually a student and i'm learning
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulrahman-2005&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-# Stats
-
-![image](https://projecteuler.net/profile/VulcanWM.png)
