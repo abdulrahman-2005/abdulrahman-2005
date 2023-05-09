@@ -19,7 +19,7 @@ I'm currently focused on learning the following:
 
 Here are some of my recent projects:
 
-- [Quranic Quiz](https://heartfelt-kangaroo-ee8ab5.netlify.app) 📚
+- [Quranic Quiz]target=_blank(https://heartfelt-kangaroo-ee8ab5.netlify.app) 📚
 - [Emoji Beat](https://glistening-daffodil-5cf9df.netlify.app/) 🎵
 - [World Encyclopaedia](https://festive-lamarr-a9315a.netlify.app) 🌍
 - [Textify](https://startling-belekoy-2f8198.netlify.app) ✉️
