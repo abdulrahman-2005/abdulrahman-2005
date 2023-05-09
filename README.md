@@ -17,13 +17,13 @@ I'm currently focused on learning the following:
 
 ## Projects 💻
 
-Here are some of my recent projects:
+Here are some of my recent projects (links work but refresh (problem with netlify)):
 
-- [Quranic Quiz]{:target="_blank"}(https://heartfelt-kangaroo-ee8ab5.netlify.app) 📚
-- [Emoji Beat](https://glistening-daffodil-5cf9df.netlify.app/) 🎵
-- [World Encyclopaedia](https://festive-lamarr-a9315a.netlify.app) 🌍
-- [Textify](https://startling-belekoy-2f8198.netlify.app) ✉️
-- [CodeBot](https://graceful-selkie-7a9a88.netlify.app/) 🤖
+- <a href="https://heartfelt-kangaroo-ee8ab5.netlify.app" target="_blank">Quranic Quiz 📚</a>
+- <a href="https://glistening-daffodil-5cf9df.netlify.app/" target="_blank">Emoji Beat 🎵</a>
+- <a href="https://festive-lamarr-a9315a.netlify.app" target="_blank">World Encyclopaedia 🌍</a>
+- <a href="https://startling-belekoy-2f8198.netlify.app" target="_blank">Textify ✉️</a>
+- <a href="https://graceful-selkie-7a9a88.netlify.app/" target="_blank">CodeBot 🤖</a>
 
 ##Languages
 the languages i speak
