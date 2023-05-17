@@ -10,7 +10,7 @@ I'm an 18-year-old Python developer from Egypt with experience in web developmen
 
 ## Learning 📖
 
-- I'm currently focused on learning the following:
+I'm currently focused on learning the following:
 
 - <p style="border: 5px solid red !important;">Rust 🦀</p> 
 - AI/ML 🤖
