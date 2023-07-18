@@ -32,7 +32,7 @@ the languages i speak
 
     <h2>Connect with me 🤝</h2>
     <p align="center">
-      <a href="https://codeman.gq"><img src="https://img.shields.io/badge/Website-%20-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codeman.gq" /></a>
+      <a href="https://www.abuazmy.online"><img src="https://img.shields.io/badge/Website-%20-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://codeman.gq" /></a>
       <a href="https://github.com/abdulrahman-2005"><img src="https://img.shields.io/badge/GitHub-%20-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/abdulrahman-2005" /></a>
       <a href="https://twitter.com/Abdulra42082285"><img src="https://img.shields.io/badge/Twitter-%20-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Abdulra42082285" /></a>
     </p>
