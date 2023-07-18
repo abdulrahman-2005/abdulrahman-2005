@@ -5,7 +5,7 @@ I'm an 18-year-old Python developer from Egypt with experience in web developmen
 ## Skills 🚀
 
 - Python 🐍
-- Git & github 🐱‍💻
+- Git & GitHub 🐱‍💻
 - Web development with HTML5, CSS, and JS 🌐
 
 ## Learning 📖
@@ -17,7 +17,7 @@ I'm currently focused on learning the following:
 
 ## Projects 💻
 
-Here are some of my recent projects (links work but refresh (problem with netlify)):
+Here are some of my recent projects (links work but refresh (problem with Netlify)):
 
 - <a href="https://heartfelt-kangaroo-ee8ab5.netlify.app" target="_blank">Quranic Quiz 📚</a>
 - <a href="https://glistening-daffodil-5cf9df.netlify.app/" target="_blank">Emoji Beat 🎵</a>
@@ -26,7 +26,8 @@ Here are some of my recent projects (links work but refresh (problem with netlif
 - <a href="https://graceful-selkie-7a9a88.netlify.app/" target="_blank">CodeBot 🤖</a>
 
 ##Languages
-the languages i speak
+
+the languages I speak
 - Arabic 🏡
 - English 💯
 
