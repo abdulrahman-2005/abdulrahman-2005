@@ -25,7 +25,7 @@ Here are some of my recent projects (links work but refresh (problem with Netlif
 - <a href="https://startling-belekoy-2f8198.netlify.app" target="_blank">Textify ✉️</a>
 - <a href="https://graceful-selkie-7a9a88.netlify.app/" target="_blank">CodeBot 🤖</a>
 
-##Languages
+## Languages 🔊
 
 the languages I speak
 - Arabic 🏡
