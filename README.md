@@ -1,4 +1,4 @@
-# Hello, I'm (**Abdulrahman Azmy**)[https://www.abuazmy.online] 👋
+# Hello, I'm <a href="https://www.abuazmy.online">**Abdulrahman Azmy**</a>👋
 
 I'm an 18-year-old Python developer from Egypt with experience in web development using HTML5, CSS, and JS. I'm also interested in learning Rust and AI/ML.
 
